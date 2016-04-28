@@ -5,7 +5,7 @@ public class ConvertSortedArraytoBinarySearchTree108 {
 
     public TreeNode sortedArrayToBST(int[] nums) {
 
-        TreeNode root = new TreeNode();
+        TreeNode root = new TreeNode(0);
 
         int s = nums.length / 2;
 

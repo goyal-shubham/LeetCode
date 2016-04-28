@@ -24,6 +24,6 @@ public class MergekSortedLists23 {
 
         ListNode head = null, cur = null, nextInput = null, pre = null;
 
-
+        return head;
     }
 }
