@@ -2,86 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9831f971-afd8-4451-b32e-c49e9bcfb7b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/DecodeString394.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/IsomorphicStrings205.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/LongestPalindromicSubstring5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/LongestSubstringWithoutRepeatingCharacters3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/LongestSubstringwithAtLeastKRepeatingCharacters395.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/MinimumWindowSubstring76.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/MultiplyStrings43.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/ReverseWordsinaString151.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/StringToInteger8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode2017/SubstringwithConcatenationofAllWords30.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/AddTwoNumbersII445.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/MiniParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/SpiralMatrix54.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/SpiralMatrixII59.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetcodePractice/TopKFrequentElements347.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ConvertSortedArraytoBinarySearchTree108.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetCode.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AddDigits258.java" afterPath="$PROJECT_DIR$/LeetcodePractice/AddDigits258.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BalancedBinaryTree110.java" afterPath="$PROJECT_DIR$/LeetcodePractice/BalancedBinaryTree110.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreeInorderTraversal94.java" afterPath="$PROJECT_DIR$/LeetcodePractice/BinaryTreeInorderTraversal94.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePostorderTraversal145.java" afterPath="$PROJECT_DIR$/LeetcodePractice/BinaryTreePostorderTraversal145.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePreorderTraversal144.java" afterPath="$PROJECT_DIR$/LeetcodePractice/BinaryTreePreorderTraversal144.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreeRightSideView199.java" afterPath="$PROJECT_DIR$/LeetcodePractice/BinaryTreeRightSideView199.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ConstructBinaryTreefromPostorderandInorderTraversal106.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ConstructBinaryTreefromPostorderandInorderTraversal106.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ConstructBinaryTreefromPreorderandInorderTraversal105.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ConstructBinaryTreefromPreorderandInorderTraversal105.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ContainsDuplicate217.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ContainsDuplicate217.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ContainsDuplicateII219.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ContainsDuplicateII219.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ConvertSortedListToBinarySearchTree109.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CountCompleteTreeNodes222.java" afterPath="$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CountingBits338.java" afterPath="$PROJECT_DIR$/LeetcodePractice/CountingBits338.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DeleteNodeInALinkedList237.java" afterPath="$PROJECT_DIR$/LeetcodePractice/DeleteNodeInALinkedList237.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ExcelSheetColumnNumber171.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ExcelSheetColumnNumber171.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FlattenBinaryTreetoLinkedList114.java" afterPath="$PROJECT_DIR$/LeetcodePractice/FlattenBinaryTreetoLinkedList114.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ImplementTrie208.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ImplementTrie208.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/InsertInterval57.java" afterPath="$PROJECT_DIR$/LeetcodePractice/InsertInterval57.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IntToRoman12.java" afterPath="$PROJECT_DIR$/LeetcodePractice/IntToRoman12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IntersectionofTwoLinkedLists160.java" afterPath="$PROJECT_DIR$/LeetcodePractice/IntersectionofTwoLinkedLists160.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/InvertBinaryTree226.java" afterPath="$PROJECT_DIR$/LeetcodePractice/InvertBinaryTree226.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IsomorphicStrings205.java" afterPath="$PROJECT_DIR$/LeetcodePractice/IsomorphicStrings205.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LinkedListCycle141.java" afterPath="$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LinkedListCycleII142.java" afterPath="$PROJECT_DIR$/LeetcodePractice/LinkedListCycleII142.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ListNode.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MajorityElement169.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MajorityElement169.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumDepthBT104.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MaximumDepthBT104.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MergeIntervals56.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MergeIntervals56.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MergeTwoSortedLists21.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MergeTwoSortedLists21.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MergekSortedLists23.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MergekSortedLists23.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveZeroes283.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MoveZeroes283.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MultiplyStrings43.java" afterPath="$PROJECT_DIR$/LeetcodePractice/MultiplyStrings43.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NimGame292.java" afterPath="$PROJECT_DIR$/LeetcodePractice/NimGame292.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Numberof1Bits191.java" afterPath="$PROJECT_DIR$/LeetcodePractice/Numberof1Bits191.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OddEvenLinkedList328.java" afterPath="$PROJECT_DIR$/LeetcodePractice/OddEvenLinkedList328.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PalindromeLinkedList234.java" afterPath="$PROJECT_DIR$/LeetcodePractice/PalindromeLinkedList234.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PartitionList86.java" afterPath="$PROJECT_DIR$/LeetcodePractice/PartitionList86.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PlusOne66.java" afterPath="$PROJECT_DIR$/LeetcodePractice/PlusOne66.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNode116.java" afterPath="$PROJECT_DIR$/LeetcodePractice/PopulatingNextRightPointersinEachNode116.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray26.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveDuplicatesfromSortedArray26.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedList83.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveDuplicatesfromSortedList83.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedListII82.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveDuplicatesfromSortedListII82.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveElement27.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveElement27.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveLinkedListElements203.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveLinkedListElements203.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveNthNodeFromEndofList19.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RemoveNthNodeFromEndofList19.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReorderList143.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ReorderList143.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedList206.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ReverseLinkedList206.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedListII92.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ReverseLinkedListII92.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseWordInAString151.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ReverseWordInAString151.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RomanToInteger13.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RomanToInteger13.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateList61.java" afterPath="$PROJECT_DIR$/LeetcodePractice/RotateList61.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SameTree100.java" afterPath="$PROJECT_DIR$/LeetcodePractice/SameTree100.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SortList148.java" afterPath="$PROJECT_DIR$/LeetcodePractice/SortList148.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SwapNodesinPairs24.java" afterPath="$PROJECT_DIR$/LeetcodePractice/SwapNodesinPairs24.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TreeNode.java" afterPath="$PROJECT_DIR$/LeetcodePractice/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/UniqueBinarySearchTrees96.java" afterPath="$PROJECT_DIR$/LeetcodePractice/UniqueBinarySearchTrees96.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidAnagram242.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ValidAnagram242.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidateBST98.java" afterPath="$PROJECT_DIR$/LeetcodePractice/ValidateBST98.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WordLadder.java" afterPath="$PROJECT_DIR$/LeetcodePractice/WordLadder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/AddDigits258.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/AddTwoNumbersII445.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BalancedBinaryTree110.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BinaryTreeInorderTraversal94.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BinaryTreePostorderTraversal145.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BinaryTreePreorderTraversal144.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BinaryTreeRightSideView199.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Compression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ConstructBinaryTreefromPostorderandInorderTraversal106$Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ConstructBinaryTreefromPostorderandInorderTraversal106.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ConstructBinaryTreefromPreorderandInorderTraversal105.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ContainsDuplicate217.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ContainsDuplicateII219.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ConvertSortedArraytoBinarySearchTree108.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ConvertSortedListToBinarySearchTree109.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/CountCompleteTreeNodes222.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/CountingBits338.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/DeleteNodeInALinkedList237.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ExcelSheetColumnNumber171.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/FlattenBinaryTreetoLinkedList114.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Grpaher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/HackLandElection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ImplementTrie208.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/InsertInterval57.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/IntToRoman12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/IntersectionofTwoLinkedLists160.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/IntervalComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/InvertBinaryTree226.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/IsomorphicStrings205.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/DecodeString394.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/IsomorphicStrings205.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/LongestPalindromicSubstring5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/LongestSubstringWithoutRepeatingCharacters3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/LongestSubstringwithAtLeastKRepeatingCharacters395.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/MinimumWindowSubstring76.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/MultiplyStrings43.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/ReverseWordsinaString151.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/StringToInteger8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodeOld/SubstringwithConcatenationofAllWords30.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/AddDigits258.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/AddTwoNumbersII445.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/BalancedBinaryTree110.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/BinaryTreeInorderTraversal94.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/BinaryTreePostorderTraversal145.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/BinaryTreePreorderTraversal144.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/BinaryTreeRightSideView199.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ConstructBinaryTreefromPostorderandInorderTraversal106$Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ConstructBinaryTreefromPostorderandInorderTraversal106.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ConstructBinaryTreefromPreorderandInorderTraversal105.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ContainsDuplicate217.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ContainsDuplicateII219.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ConvertSortedListToBinarySearchTree109.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/CountCompleteTreeNodes222.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/CountingBits338.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/DeleteNodeInALinkedList237.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ExcelSheetColumnNumber171.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/FlattenBinaryTreetoLinkedList114.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ImplementTrie208.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/InsertInterval57.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/IntToRoman12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/IntersectionofTwoLinkedLists160.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/IntervalComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/InvertBinaryTree226.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/IsomorphicStrings205.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/LinkedListCycle141.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/LinkedListCycleII142.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MajorityElement169.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MaximumDepthBT104.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MergeIntervals56.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MergeTwoSortedLists21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MergekSortedLists23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MiniParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MoveZeroes283.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/MultiplyStrings43.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/NimGame292.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/Numberof1Bits191.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/OddEvenLinkedList328.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/PalindromeLinkedList234.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/PartitionList86.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/PlusOne66.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/PopulatingNextRightPointersinEachNode116.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveDuplicatesfromSortedArray26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveDuplicatesfromSortedList83.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveDuplicatesfromSortedListII82.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveElement27.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveLinkedListElements203.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RemoveNthNodeFromEndofList19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ReorderList143.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ReverseLinkedList206.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ReverseLinkedListII92.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ReverseWordInAString151.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RomanToInteger13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/RotateList61.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/SameTree100.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/SortList148.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/SpiralMatrix54.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/SpiralMatrixII59.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/SwapNodesinPairs24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/TopKFrequentElements347.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/TreeLinkNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/UniqueBinarySearchTrees96.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ValidAnagram242.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/ValidateBST98.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/WordLadder$WordNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetcodePractice/WordLadder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LinkedListCycle141.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LinkedListCycleII142.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LinkedListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MajorityElement169.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MaximumDepthBT104.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeInBetween.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeIntervals56.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeTwoSortedLists21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MergekSortedLists23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MiniParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ModifyPrices.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MoveZeroes283.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/MultiplyStrings43.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/NimGame292.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Numberof1Bits191.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/OddEvenLinkedList328.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/PalindromeLinkedList234.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/PartitionList86.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/PlusOne66.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/PopulatingNextRightPointersinEachNode116.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RedundancyInLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveDuplicatesfromSortedArray26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveDuplicatesfromSortedList83.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveDuplicatesfromSortedListII82.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveElement27.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveLinkedListElements203.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveNthNodeFromEndofList19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ReorderList143.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ReverseLinkedList206.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ReverseLinkedListII92.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ReverseWordInAString151.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RomanToInteger13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/RotateList61.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/SameTree100.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/SortList148.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/SpiralMatrix54.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/SpiralMatrixII59.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/SwapNodesinPairs24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/TopKFrequentElements347.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeLinkNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/UniqueBinarySearchTrees96.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ValidAnagram242.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/ValidateBST98.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/WordLadder$WordNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/WordLadder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -106,7 +196,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MiniParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/MiniParser.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/MiniParser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -126,19 +216,19 @@
         </entry>
       </file>
       <file leaf-file-name="TopKFrequentElements347.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/TopKFrequentElements347.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/TopKFrequentElements347.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="e#473#482#0" expanded="false" />
+                <element signature="e#469#478#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LongestSubstringWithoutRepeatingCharacters3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestSubstringWithoutRepeatingCharacters3.java">
+        <entry file="file://$PROJECT_DIR$/String/LongestSubstringWithoutRepeatingCharacters3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
@@ -148,7 +238,7 @@
         </entry>
       </file>
       <file leaf-file-name="LongestPalindromicSubstring5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestPalindromicSubstring5.java">
+        <entry file="file://$PROJECT_DIR$/String/LongestPalindromicSubstring5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
               <caret line="38" column="5" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
@@ -158,7 +248,7 @@
         </entry>
       </file>
       <file leaf-file-name="StringToInteger8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/StringToInteger8.java">
+        <entry file="file://$PROJECT_DIR$/String/StringToInteger8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
@@ -168,7 +258,7 @@
         </entry>
       </file>
       <file leaf-file-name="SubstringwithConcatenationofAllWords30.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/SubstringwithConcatenationofAllWords30.java">
+        <entry file="file://$PROJECT_DIR$/String/SubstringwithConcatenationofAllWords30.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -178,7 +268,7 @@
         </entry>
       </file>
       <file leaf-file-name="MultiplyStrings43.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/MultiplyStrings43.java">
+        <entry file="file://$PROJECT_DIR$/String/MultiplyStrings43.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
@@ -188,7 +278,7 @@
         </entry>
       </file>
       <file leaf-file-name="ReverseWordsinaString151.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/ReverseWordsinaString151.java">
+        <entry file="file://$PROJECT_DIR$/String/ReverseWordsinaString151.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
@@ -198,7 +288,7 @@
         </entry>
       </file>
       <file leaf-file-name="MinimumWindowSubstring76.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/MinimumWindowSubstring76.java">
+        <entry file="file://$PROJECT_DIR$/String/MinimumWindowSubstring76.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
               <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
@@ -208,7 +298,7 @@
         </entry>
       </file>
       <file leaf-file-name="IsomorphicStrings205.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/IsomorphicStrings205.java">
+        <entry file="file://$PROJECT_DIR$/String/IsomorphicStrings205.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
@@ -218,7 +308,7 @@
         </entry>
       </file>
       <file leaf-file-name="DecodeString394.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/DecodeString394.java">
+        <entry file="file://$PROJECT_DIR$/String/DecodeString394.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="479">
               <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
@@ -304,16 +394,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubstringwithAtLeastKRepeatingCharacters395.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestSubstringwithAtLeastKRepeatingCharacters395.java">
+      <file leaf-file-name="LongestSubstringwithAtLeastKRepeatingCharacters395.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/LongestSubstringwithAtLeastKRepeatingCharacters395.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -329,7 +429,7 @@
         </entry>
       </file>
       <file leaf-file-name="CountCompleteTreeNodes222.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/CountCompleteTreeNodes222.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -339,20 +439,20 @@
         </entry>
       </file>
       <file leaf-file-name="ConvertSortedArraytoBinarySearchTree108.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedArraytoBinarySearchTree108.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#177#178#0" expanded="false" />
-                <element signature="e#225#226#0" expanded="false" />
+                <element signature="e#173#174#0" expanded="false" />
+                <element signature="e#221#222#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ConvertSortedListToBinarySearchTree109.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedListToBinarySearchTree109.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -362,7 +462,7 @@
         </entry>
       </file>
       <file leaf-file-name="LinkedListCycle141.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java">
+        <entry file="file://$PROJECT_DIR$/MixSolutions/LinkedListCycle141.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -416,6 +516,7 @@
         <option value="$PROJECT_DIR$/RedundancyInLinkedList.java" />
         <option value="$PROJECT_DIR$/LeetcodeOld/LongestSubstringwithAtLeastKRepeatingCharacters395.java" />
         <option value="$PROJECT_DIR$/Leetcode2017/LongestSubstringwithAtLeastKRepeatingCharacters395.java" />
+        <option value="$PROJECT_DIR$/String/LongestSubstringwithAtLeastKRepeatingCharacters395.java" />
       </list>
     </option>
   </component>
@@ -499,11 +600,11 @@
     <configuration default="false" name="IsomorphicStrings205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Leetcode2017.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode2017.IsomorphicStrings205" />
+      <option name="MAIN_CLASS_NAME" value="String.IsomorphicStrings205" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -564,11 +665,11 @@
     <configuration default="false" name="LongestSubstringwithAtLeastKRepeatingCharacters395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Leetcode2017.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode2017.LongestSubstringwithAtLeastKRepeatingCharacters395" />
+      <option name="MAIN_CLASS_NAME" value="String.LongestSubstringwithAtLeastKRepeatingCharacters395" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -867,10 +968,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -900,12 +1001,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetcodePractice/TopKFrequentElements347.java</url>
+          <url>file://$PROJECT_DIR$/MixSolutions/TopKFrequentElements347.java</url>
           <line>18</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode2017/IsomorphicStrings205.java</url>
+          <url>file://$PROJECT_DIR$/String/IsomorphicStrings205.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="3" />
@@ -923,7 +1024,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode2017/LongestSubstringwithAtLeastKRepeatingCharacters395.java</url>
+          <url>file://$PROJECT_DIR$/String/LongestSubstringwithAtLeastKRepeatingCharacters395.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="7" />
@@ -938,26 +1039,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedArraytoBinarySearchTree108.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedListToBinarySearchTree109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -965,7 +1058,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/LinkedListCycle141.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -973,7 +1066,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/MiniParser.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/MiniParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -989,47 +1082,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrixII59.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrixII59.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrix54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/AddTwoNumbersII445.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrix54.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#225#226#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/AddTwoNumbersII445.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/CountCompleteTreeNodes222.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1037,7 +1116,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedArraytoBinarySearchTree108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedListToBinarySearchTree109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1045,7 +1135,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/MiniParser.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/LinkedListCycle141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/MiniParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1061,47 +1159,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrixII59.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrixII59.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrix54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/AddTwoNumbersII445.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrix54.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#225#226#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/AddTwoNumbersII445.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/CountCompleteTreeNodes222.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1109,7 +1193,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedArraytoBinarySearchTree108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedListToBinarySearchTree109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/LinkedListCycle141.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1118,7 +1221,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Grpaher.java" />
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/CountCompleteTreeNodes222.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/CountCompleteTreeNodes222.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1126,7 +1229,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedListToBinarySearchTree109.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedListToBinarySearchTree109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1134,7 +1237,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/LinkedListCycle141.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/LinkedListCycle141.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1142,18 +1245,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/ConvertSortedArraytoBinarySearchTree108.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/ConvertSortedArraytoBinarySearchTree108.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/MiniParser.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/MiniParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1169,38 +1272,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrixII59.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrixII59.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/SpiralMatrix54.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/SpiralMatrix54.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/AddTwoNumbersII445.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetcodePractice/TopKFrequentElements347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#473#482#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestSubstringWithoutRepeatingCharacters3.java">
+    <entry file="file://$PROJECT_DIR$/MixSolutions/AddTwoNumbersII445.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MixSolutions/TopKFrequentElements347.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#469#478#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/LongestSubstringWithoutRepeatingCharacters3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
@@ -1208,7 +1316,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestPalindromicSubstring5.java">
+    <entry file="file://$PROJECT_DIR$/String/LongestPalindromicSubstring5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="5" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
@@ -1216,7 +1324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/StringToInteger8.java">
+    <entry file="file://$PROJECT_DIR$/String/StringToInteger8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
@@ -1224,7 +1332,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/SubstringwithConcatenationofAllWords30.java">
+    <entry file="file://$PROJECT_DIR$/String/SubstringwithConcatenationofAllWords30.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -1232,7 +1340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/MultiplyStrings43.java">
+    <entry file="file://$PROJECT_DIR$/String/MultiplyStrings43.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
@@ -1240,7 +1348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/ReverseWordsinaString151.java">
+    <entry file="file://$PROJECT_DIR$/String/ReverseWordsinaString151.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
@@ -1248,7 +1356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/MinimumWindowSubstring76.java">
+    <entry file="file://$PROJECT_DIR$/String/MinimumWindowSubstring76.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
@@ -1256,7 +1364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/IsomorphicStrings205.java">
+    <entry file="file://$PROJECT_DIR$/String/IsomorphicStrings205.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
@@ -1264,7 +1372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/DecodeString394.java">
+    <entry file="file://$PROJECT_DIR$/String/DecodeString394.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
           <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
@@ -1343,15 +1451,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode2017/LongestSubstringwithAtLeastKRepeatingCharacters395.java">
+    <entry file="file://$PROJECT_DIR$/String/LongestSubstringwithAtLeastKRepeatingCharacters395.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
