@@ -25,7 +25,7 @@ public class DecodeString394 {
                 count = "";
             }
             else if(c == ']') {
-
+                
             }
             else {
                 result += c;
