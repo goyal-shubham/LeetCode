@@ -1,5 +1,7 @@
 package Arrays;
 
+import CommonFunctions.PrintArray;
+
 /**
  * Created by shubham.goyal on 1/31/17.
  */
