@@ -15,9 +15,9 @@ public class KthLargestElementinanArray {
 
         int swapPosition = start;
 
-        for(int i = start; i < end - 1; i++) {
+        for(int i = start; i < end; i++) {
 
-            if(nums[i] < pivotValue) {
+            if(nums[i] <= pivotValue) {
                 int temp = nums[i];
                 nums[i] = nums[swapPosition];
                 nums[swapPosition++] = temp;
@@ -37,11 +37,11 @@ public class KthLargestElementinanArray {
 
         int start = 0;
         int end = nums.length - 1;
-
-        while(start < end) {
+        k = (nums.length - k );
+        while(start <= end) {
 
             int currentIndex = partition(nums, start, end);
-            if(currentIndex == k) {
+            if(currentIndex == (k)) {
                 return nums[currentIndex];
             }
             else if(currentIndex < k) {
@@ -51,12 +51,9 @@ public class KthLargestElementinanArray {
                 end = currentIndex - 1;
             }
 
-            PrintArray.printArray(nums);
-
         }
 
-        return nums[end];
+        return -1;
     }
-
 
 }

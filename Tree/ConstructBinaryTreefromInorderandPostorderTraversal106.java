@@ -29,9 +29,10 @@ public class ConstructBinaryTreefromInorderandPostorderTraversal106 {
     }
 
     public static void main(String[] args) {
-        int[] postorder = new int[] {1,3,2,5,7,6,4};
-        int[] inorder = new int[]{1,2,3,4,5,6,7};
-        buildTree(inorder, postorder);
+        int[] postorder = new int[] {4,5,2,6,7,3,1};
+        int[] inorder = new int[]{4,2,5,1,6,3,7};
+        TreeNode root = buildTree(inorder, postorder);
+        System.out.println(root.left);
     }
 
 }
